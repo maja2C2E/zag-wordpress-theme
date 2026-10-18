@@ -12,19 +12,19 @@ $new_official_url = 'https://www.grad.unizg.hr/novosti_i_objave/natjecaji?@=2b5z
         <div>
           <span class="eyebrow">University of Zagreb · Croatia</span>
           <h1>Open research positions in the ZAGGREGATE project</h1>
-          <p class="positions-lead">The University of Zagreb Faculty of Civil Engineering is currently recruiting four doctoral researchers and one postdoctoral researcher for Postdoc 3. The new PhD 6 position focuses on damage-informed seismic assessment of historic masonry buildings under repeated earthquake actions.</p>
+          <p class="positions-lead">The University of Zagreb Faculty of Civil Engineering is currently recruiting one doctoral researcher for PhD 6 and one postdoctoral researcher for Postdoc 3. The PhD 6 position focuses on damage-informed seismic assessment of historic masonry buildings under repeated earthquake actions.</p>
           <div class="positions-hero-actions"><a class="btn btn-primary" href="#how-to-apply">How to apply ↓</a></div>
         </div>
         <div class="positions-keyfacts" aria-label="Key recruitment facts">
-          <div><strong>4</strong><span>PhD positions</span><small>3 close 30 September · 1 closes 15 October</small></div>
-          <div><strong>Postdoc 3</strong><span>Currently open</span><small>Deadline: 15 October 2026</small></div>
+          <div><strong>4</strong><span>PhD positions</span><small>3 closed 30 September · PhD 6 extended to 31 October</small></div>
+          <div><strong>Postdoc 3</strong><span>Currently open</span><small>Extended deadline: 31 October 2026</small></div>
           <div><strong>Zagreb</strong><span>Primary workplace</span><small>International research exchanges included</small></div>
         </div>
       </div>
     </div>
   </section>
 
-  <nav class="positions-page-nav" aria-label="Open positions page navigation"><div class="container"><a href="#overview">Start here</a><a href="#phd-positions">PhD positions <span>30 Sep / 15 Oct</span></a><a href="#postdoc-positions">Postdoc 3 <span>15 Oct</span></a><a href="#how-to-apply">How to apply</a><a href="#submit-application">Submit &amp; contact</a></div></nav>
+  <nav class="positions-page-nav" aria-label="Open positions page navigation"><div class="container"><a href="#overview">Start here</a><a href="#phd-positions">PhD positions <span>30 Sep / 31 Oct</span></a><a href="#postdoc-positions">Postdoc 3 <span>31 Oct</span></a><a href="#how-to-apply">How to apply</a><a href="#submit-application">Submit &amp; contact</a></div></nav>
 
   <section class="positions-essentials" id="overview">
     <div class="container">
@@ -37,7 +37,7 @@ $new_official_url = 'https://www.grad.unizg.hr/novosti_i_objave/natjecaji?@=2b5z
       </div>
       <div class="official-notice">
         <div><strong>Unofficial English guide</strong><p>The selection committee assesses formal compliance and may request supplementary documents where appropriate.</p></div>
-        <div><p>The relevant official Croatian announcement is legally authoritative and prevails in case of any discrepancy.</p><div class="official-call-links"><a target="_blank" rel="noopener" href="<?php echo esc_url($original_official_url); ?>"><span>Original call</span><strong>PhD 1, PhD 4 &amp; PhD 5</strong><small>Deadline: 30 September 2026 ↗</small></a><a target="_blank" rel="noopener" href="<?php echo esc_url($new_official_url); ?>"><span>New call</span><strong>PhD 6 &amp; Postdoc 3</strong><small>Deadline: 15 October 2026 ↗</small></a></div></div>
+        <div><p>The relevant official Croatian announcement is legally authoritative and prevails in case of any discrepancy.</p><div class="official-call-links"><a target="_blank" rel="noopener" href="<?php echo esc_url($original_official_url); ?>"><span>Original call</span><strong>PhD 1, PhD 4 &amp; PhD 5</strong><small>Deadline: 30 September 2026 ↗</small></a><a target="_blank" rel="noopener" href="<?php echo esc_url($new_official_url); ?>"><span>Deadline extended</span><strong>PhD 6 &amp; Postdoc 3</strong><small>New deadline: 31 October 2026 ↗</small></a></div></div>
       </div>
     </div>
   </section>
@@ -58,7 +58,7 @@ $new_official_url = 'https://www.grad.unizg.hr/novosti_i_objave/natjecaji?@=2b5z
         <article class="role-profile"><span>PhD 5</span><h4>Eurocode 8 and shake-table benchmarking</h4><ul><li>Half-scale shake-table test planning and execution</li><li>Blind prediction and post-diction benchmark</li><li>EC8 Part 3 evaluation and recommendations</li><li>An open shake-table dataset with processing scripts</li></ul><p class="role-profile-deadline">Application deadline: 30 September 2026</p></article>
       </div>
       <section class="additional-phd-profile" aria-labelledby="phd-6-title">
-        <div class="additional-phd-head"><div><div class="additional-phd-labels"><span>PhD 6</span><strong>Applications open · Zagreb</strong></div><h3 id="phd-6-title">Damage-informed seismic assessment of historic masonry buildings under repeated earthquake actions</h3><p><strong>Official position title:</strong> Project Associate 3 / Researcher - PhD Candidate.</p></div><div><strong>15 October</strong><span>Application deadline · 2026</span></div></div>
+        <div class="additional-phd-head"><div><div class="additional-phd-labels"><span>PhD 6</span><strong>Applications open · Zagreb</strong></div><h3 id="phd-6-title">Damage-informed seismic assessment of historic masonry buildings under repeated earthquake actions</h3><p><strong>Official position title:</strong> Project Associate 3 / Researcher - PhD Candidate.</p></div><div><strong>31 October</strong><span>Extended deadline · 2026</span></div></div>
         <ul class="additional-phd-summary"><li>Simplified representation of observed earthquake damage</li><li>Residual seismic capacity after prior earthquake damage</li><li>Cumulative damage under earthquake sequences</li></ul>
       </section>
     </div>
@@ -66,16 +66,16 @@ $new_official_url = 'https://www.grad.unizg.hr/novosti_i_objave/natjecaji?@=2b5z
 
   <section class="section job-details postdoc-details" id="postdoc-positions">
     <div class="container">
-      <div class="job-group-head"><div><span class="eyebrow">Currently open · Postdoc 3</span><h2>Project Associate 2 / Experienced Researcher – Postdoctoral Researcher</h2><p><strong>Research focus:</strong> Assessment and retrofit guidance for historic masonry building aggregates, including the transfer of project results into engineering practice.</p></div><div class="deadline-card"><span>Application deadline</span><strong>15 October</strong><small>2026</small></div></div>
+      <div class="job-group-head"><div><span class="eyebrow">Currently open · Postdoc 3</span><h2>Project Associate 2 / Experienced Researcher – Postdoctoral Researcher</h2><p><strong>Research focus:</strong> Assessment and retrofit guidance for historic masonry building aggregates, including the transfer of project results into engineering practice.</p></div><div class="deadline-card"><span>Extended deadline</span><strong>31 October</strong><small>2026</small></div></div>
       <div class="job-columns">
         <article class="requirements-card"><h3>Required profile</h3><ul><li>A completed doctoral degree in civil engineering or a related technical field</li><li>Relevant experience in earthquake or structural engineering, masonry, numerical modelling, experiments and/or risk assessment</li><li>Demonstrated ability to conduct independent research</li><li>Experience writing and publishing scientific papers</li><li>Excellent spoken and written English</li><li>Ability to work independently and within an international research team</li><li>Willingness to learn and apply new methods, software tools and research approaches</li><li>Willingness to undertake a research stay outside Croatia for up to one year, at EPFL and/or another international partner institution</li></ul></article>
         <article class="requirements-card"><h3>Expected contribution</h3><ul><li>Independent research within the project’s thematic area</li><li>Laboratory, field and/or numerical research</li><li>Advanced masonry models and interpretation of experimental or field data</li><li>Assessment methods, damage indicators, vulnerability and retrofit recommendations</li><li>Coordination of research activities and support for doctoral researchers</li><li>Scientific publications and conference dissemination</li></ul></article>
       </div>
       <div class="position-offer"><strong>Contract and opportunities</strong><p>Fixed-term, full-time employment for up to three years, with the possibility of extension until the end of the project. The position offers an international and interdisciplinary research environment, collaboration with EPFL and other partners, research exchange, conferences, workshops and training, and opportunities to mentor doctoral candidates and students.</p></div>
-      <aside class="upcoming-call open-call"><div><span>Applications open</span><h3>Apply for the new postdoctoral position by 15 October 2026</h3><p>Prepare one complete, signed PDF and follow the English application guidance below. The official Croatian announcement remains the legally authoritative source.</p></div><strong>Open now</strong></aside>
+      <aside class="upcoming-call open-call"><div><span>Deadline extended</span><h3>Apply for the new postdoctoral position by 31 October 2026</h3><p>Prepare one complete, signed PDF and follow the English application guidance below. The official Croatian announcement remains the legally authoritative source.</p></div><strong>Open now</strong></aside>
       <div class="profile-heading"><h3>Postdoctoral positions in the project</h3><p>All three planned postdoctoral profiles remain visible here. Their current application status is shown on each card.</p></div>
       <div class="role-profiles postdoc-status-grid">
-        <article class="role-profile postdoctoral role-profile--open"><div class="role-profile-labels"><span>Postdoc 3</span><strong>Applications open</strong></div><h4>Assessment and retrofit guidance</h4><ul><li>Assessment and design guidelines</li><li>Case-study retrofit of a Zagreb building aggregate</li><li>Knowledge transfer and professional workshops</li><li>Dissemination and education for engineering practice</li></ul><p class="role-profile-deadline">Deadline: 15 October 2026</p></article>
+        <article class="role-profile postdoctoral role-profile--open"><div class="role-profile-labels"><span>Postdoc 3</span><strong>Applications open</strong></div><h4>Assessment and retrofit guidance</h4><ul><li>Assessment and design guidelines</li><li>Case-study retrofit of a Zagreb building aggregate</li><li>Knowledge transfer and professional workshops</li><li>Dissemination and education for engineering practice</li></ul><p class="role-profile-deadline">Extended deadline: 31 October 2026</p></article>
         <article class="role-profile postdoctoral role-profile--closed"><div class="role-profile-labels"><span>Postdoc 1</span><strong>Call closed</strong></div><h4>In-situ testing and model calibration</h4><ul><li>NDT and operational modal analysis campaigns</li><li>Inter-building connection stiffness identification</li><li>Calibrated numerical models of individual units and aggregates</li><li>A FAIR, web-based repository for in-situ and laboratory data</li></ul></article>
         <article class="role-profile postdoctoral role-profile--closed"><div class="role-profile-labels"><span>Postdoc 2</span><strong>Call closed</strong></div><h4>Vulnerability, fragility and seismic risk</h4><ul><li>Aggregate-specific vulnerability methodology</li><li>Fragility curves by position and configuration</li><li>Risk maps for unretrofitted and retrofitted aggregates</li><li>Risk-reduction indicators for retrofit strategies</li></ul></article>
       </div>
