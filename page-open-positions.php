@@ -2,7 +2,7 @@
 <main id="main-content">
 <section class="content-hero content-hero--positions"><div class="container"><span class="eyebrow">Recruitment</span><h1>Future opportunities with ZAGGREGATE.</h1><p>There are currently no open positions. Future doctoral and postdoctoral calls will be announced on this website and in the project News section.</p><div class="position-summary"><span><strong>0</strong> positions currently open</span><span><strong>6</strong> doctoral profiles</span><span><strong>3</strong> postdoctoral profiles</span></div></div></section>
 
-<div class="container positions-notice-wrap"><div class="positions-notice"><strong>No positions currently open</strong><p>Please follow this page and the <a href="<?php echo esc_url(home_url('/#news')); ?>">project News section</a> for possible future opportunities. Previous calls and research profiles remain available below for reference.</p></div></div>
+<div class="container positions-notice-wrap"><div class="positions-notice"><strong>No positions currently open</strong><p>Please follow this page and the <a href="<?php echo esc_url(home_url('/news/')); ?>">project News section</a> for possible future opportunities. Previous calls and research profiles remain available below for reference.</p></div></div>
 
 <section class="hiring positions-page" id="zagreb"><div class="container"><div class="hiring-panel reveal">
   <section class="position-location-group" aria-labelledby="positions-zagreb"><div class="position-location-head"><div><span class="position-place">Zagreb · Croatia</span><h2 id="positions-zagreb">University of Zagreb</h2></div><div class="position-statuses"><span class="position-count position-count--closed">All calls closed</span></div></div>

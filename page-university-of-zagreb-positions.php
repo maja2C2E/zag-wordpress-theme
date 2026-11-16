@@ -85,7 +85,7 @@ $new_official_url = 'https://www.grad.unizg.hr/novosti_i_objave/natjecaji?@=2b5z
     <div class="container">
       <div class="positions-submit-panel">
         <div><span class="eyebrow">Future opportunities</span><h2>There are currently no open positions.</h2><p>Possible future doctoral and postdoctoral calls will be announced on the ZAGGREGATE website and in the project News section. Please check back for updates.</p></div>
-        <div class="positions-submit-actions"><a class="btn btn-primary" href="<?php echo esc_url(home_url('/#news')); ?>">Follow project news →</a><a class="btn btn-secondary" href="<?php echo esc_url(home_url('/open-positions/')); ?>">View recruitment archive</a><div class="positions-contact-person"><span>Project contact</span><strong>Maja Baniček</strong><a href="mailto:maja.banicek@grad.unizg.hr">maja.banicek@grad.unizg.hr</a></div></div>
+        <div class="positions-submit-actions"><a class="btn btn-primary" href="<?php echo esc_url(home_url('/news/')); ?>">Follow project news →</a><a class="btn btn-secondary" href="<?php echo esc_url(home_url('/open-positions/')); ?>">View recruitment archive</a><div class="positions-contact-person"><span>Project contact</span><strong>Maja Baniček</strong><a href="mailto:maja.banicek@grad.unizg.hr">maja.banicek@grad.unizg.hr</a></div></div>
       </div>
     </div>
   </section>

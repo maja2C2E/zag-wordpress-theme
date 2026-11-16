@@ -42,6 +42,7 @@ function zaggregate_virtual_pages() {
         'research-programme' => ['template' => 'page-research-programme.php', 'title' => 'Research Programme | ZAGGREGATE'],
         'team-partners' => ['template' => 'page-team-partners.php', 'title' => 'Team & Partners | ZAGGREGATE'],
         'project-team' => ['template' => 'page-project-team.php', 'title' => 'Project Team | ZAGGREGATE'],
+        'news' => ['template' => 'page-news.php', 'title' => 'News & Updates | ZAGGREGATE'],
         'open-positions' => ['template' => 'page-open-positions.php', 'title' => 'Recruitment Opportunities | ZAGGREGATE'],
         'university-of-zagreb-positions' => ['template' => 'page-university-of-zagreb-positions.php', 'title' => 'University of Zagreb Recruitment Archive | ZAGGREGATE'],
         'project-presentation-25-may-2026' => ['template' => 'page-project-presentation-event.php', 'title' => 'Presentation of the ZAGGREGATE Project | 25 May 2026'],
@@ -109,7 +110,7 @@ function zaggregate_render_virtual_page_directly() {
 add_action('template_redirect', 'zaggregate_render_virtual_page_directly', 0);
 
 function zaggregate_maybe_flush_virtual_routes() {
-    $route_version = '5';
+    $route_version = '6';
     if (get_option('zaggregate_virtual_route_version') !== $route_version) {
         zaggregate_register_virtual_routes();
         flush_rewrite_rules(false);

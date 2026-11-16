@@ -17,7 +17,7 @@
           <a href="<?php echo esc_url(home_url('/team-partners/')); ?>">Team &amp; partners</a>
           <a href="<?php echo esc_url(home_url('/project-team/')); ?>">Project team</a>
           <a href="<?php echo esc_url(home_url('/open-positions/')); ?>">Recruitment</a>
-          <a href="<?php echo esc_url(home_url('/#news')); ?>">News</a>
+          <a href="<?php echo esc_url(home_url('/news/')); ?>">News</a>
         </nav>
       </div>
       <div class="footer-column footer-contact">

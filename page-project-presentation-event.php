@@ -7,7 +7,7 @@ $photos_uri = $media_uri . '/photos';
 <main id="main-content" class="event-page" lang="en">
   <section class="content-hero event-hero">
     <div class="container">
-      <a class="positions-back" href="<?php echo esc_url(home_url('/#news')); ?>">← Back to news</a>
+      <a class="positions-back" href="<?php echo esc_url(home_url('/news/')); ?>">← Back to news</a>
       <span class="eyebrow">Project event · 25 May 2026</span>
       <h1>Presentation of the ZAGGREGATE Project held at the University of Zagreb</h1>
       <p>Government, diplomatic, academic and professional representatives joined the project team to mark the beginning of an international research collaboration focused on safer historic masonry building aggregates.</p>
