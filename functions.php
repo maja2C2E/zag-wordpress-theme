@@ -41,6 +41,7 @@ function zaggregate_virtual_pages() {
         'project-overview' => ['template' => 'page-project-overview.php', 'title' => 'Project Overview | ZAGGREGATE'],
         'research-programme' => ['template' => 'page-research-programme.php', 'title' => 'Research Programme | ZAGGREGATE'],
         'team-partners' => ['template' => 'page-team-partners.php', 'title' => 'Team & Partners | ZAGGREGATE'],
+        'project-team' => ['template' => 'page-project-team.php', 'title' => 'Project Team | ZAGGREGATE'],
         'open-positions' => ['template' => 'page-open-positions.php', 'title' => 'Recruitment Opportunities | ZAGGREGATE'],
         'university-of-zagreb-positions' => ['template' => 'page-university-of-zagreb-positions.php', 'title' => 'University of Zagreb Recruitment Archive | ZAGGREGATE'],
         'project-presentation-25-may-2026' => ['template' => 'page-project-presentation-event.php', 'title' => 'Presentation of the ZAGGREGATE Project | 25 May 2026'],
@@ -108,7 +109,7 @@ function zaggregate_render_virtual_page_directly() {
 add_action('template_redirect', 'zaggregate_render_virtual_page_directly', 0);
 
 function zaggregate_maybe_flush_virtual_routes() {
-    $route_version = '4';
+    $route_version = '5';
     if (get_option('zaggregate_virtual_route_version') !== $route_version) {
         zaggregate_register_virtual_routes();
         flush_rewrite_rules(false);
@@ -150,6 +151,10 @@ function zaggregate_social_metadata() {
         'team-partners' => [
             'title' => 'Team & Partners | ZAGGREGATE',
             'description' => 'Meet the Zagreb and Lausanne research teams, project leaders, coordinators, partner institutions and international scientific network behind ZAGGREGATE.',
+        ],
+        'project-team' => [
+            'title' => 'Project Team | ZAGGREGATE',
+            'description' => 'Meet the ZAGGREGATE project team from the University of Zagreb Faculty of Civil Engineering, CCEE and EPFL EESD, including new PhD researchers Šime Runjić and Mislav Majić.',
         ],
         'open-positions' => [
             'title' => 'Recruitment Opportunities | ZAGGREGATE',
