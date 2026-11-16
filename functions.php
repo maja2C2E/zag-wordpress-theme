@@ -41,8 +41,8 @@ function zaggregate_virtual_pages() {
         'project-overview' => ['template' => 'page-project-overview.php', 'title' => 'Project Overview | ZAGGREGATE'],
         'research-programme' => ['template' => 'page-research-programme.php', 'title' => 'Research Programme | ZAGGREGATE'],
         'team-partners' => ['template' => 'page-team-partners.php', 'title' => 'Team & Partners | ZAGGREGATE'],
-        'open-positions' => ['template' => 'page-open-positions.php', 'title' => 'Open Positions | ZAGGREGATE'],
-        'university-of-zagreb-positions' => ['template' => 'page-university-of-zagreb-positions.php', 'title' => 'University of Zagreb Open Positions | ZAGGREGATE'],
+        'open-positions' => ['template' => 'page-open-positions.php', 'title' => 'Recruitment Opportunities | ZAGGREGATE'],
+        'university-of-zagreb-positions' => ['template' => 'page-university-of-zagreb-positions.php', 'title' => 'University of Zagreb Recruitment Archive | ZAGGREGATE'],
         'project-presentation-25-may-2026' => ['template' => 'page-project-presentation-event.php', 'title' => 'Presentation of the ZAGGREGATE Project | 25 May 2026'],
     ];
 }
@@ -152,12 +152,12 @@ function zaggregate_social_metadata() {
             'description' => 'Meet the Zagreb and Lausanne research teams, project leaders, coordinators, partner institutions and international scientific network behind ZAGGREGATE.',
         ],
         'open-positions' => [
-            'title' => 'Open Positions | ZAGGREGATE',
-            'description' => 'Explore doctoral and postdoctoral opportunities with the ZAGGREGATE project at the University of Zagreb and EPFL in Lausanne.',
+            'title' => 'Recruitment Opportunities | ZAGGREGATE',
+            'description' => 'There are currently no open ZAGGREGATE positions. Follow project recruitment updates and review previous doctoral and postdoctoral calls.',
         ],
         'university-of-zagreb-positions' => [
-            'title' => 'University of Zagreb Open Positions | ZAGGREGATE',
-            'description' => 'English-language application guidance for international candidates applying for ZAGGREGATE doctoral and postdoctoral positions at the University of Zagreb.',
+            'title' => 'University of Zagreb Recruitment Archive | ZAGGREGATE',
+            'description' => 'Review concluded ZAGGREGATE doctoral and postdoctoral calls at the University of Zagreb and follow the project website for future opportunities.',
         ],
         'project-presentation-25-may-2026' => [
             'title' => 'Presentation of the ZAGGREGATE Project | 25 May 2026',

@@ -15,7 +15,7 @@
       <ul class="sub-menu"><li><a href="<?php echo esc_url(home_url('/team-partners/')); ?>">Zagreb × Lausanne</a></li><li><a href="<?php echo esc_url(home_url('/team-partners/#governance')); ?>">Project governance</a></li><li><a href="<?php echo esc_url(home_url('/team-partners/#institutions')); ?>">Funding &amp; institutions</a></li></ul>
     </li>
     <li class="menu-item-has-children"><a href="<?php echo esc_url(home_url('/open-positions/')); ?>">Opportunities</a><button class="submenu-toggle" aria-expanded="false" aria-label="Open Opportunities submenu">⌄</button>
-      <ul class="sub-menu"><li><a href="<?php echo esc_url(home_url('/open-positions/')); ?>">All open positions</a></li><li><a href="<?php echo esc_url(home_url('/university-of-zagreb-positions/')); ?>">University of Zagreb</a></li><li><a target="_blank" rel="noopener" href="https://careers.epfl.ch/job/Lausanne-2-PhD-Positions-in-Earthquake-Engineering-Structural-Engineering-%28ENACEESD%29/1164923655/">EPFL official call ↗</a></li></ul>
+      <ul class="sub-menu"><li><a href="<?php echo esc_url(home_url('/open-positions/')); ?>">Recruitment updates</a></li><li><a href="<?php echo esc_url(home_url('/university-of-zagreb-positions/')); ?>">University of Zagreb archive</a></li><li><a target="_blank" rel="noopener" href="https://careers.epfl.ch/job/Lausanne-2-PhD-Positions-in-Earthquake-Engineering-Structural-Engineering-%28ENACEESD%29/1164923655/">Archived EPFL call ↗</a></li></ul>
     </li>
     <li><a href="<?php echo esc_url(home_url('/#news')); ?>">News</a></li>
     <li><a href="<?php echo esc_url(home_url('/#contact')); ?>">Contact</a></li>

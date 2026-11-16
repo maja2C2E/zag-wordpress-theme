@@ -15,7 +15,7 @@
           <a href="<?php echo esc_url(home_url('/project-overview/')); ?>">Project</a>
           <a href="<?php echo esc_url(home_url('/research-programme/')); ?>">Research</a>
           <a href="<?php echo esc_url(home_url('/team-partners/')); ?>">Team &amp; partners</a>
-          <a href="<?php echo esc_url(home_url('/open-positions/')); ?>">Open positions</a>
+          <a href="<?php echo esc_url(home_url('/open-positions/')); ?>">Recruitment</a>
           <a href="<?php echo esc_url(home_url('/#news')); ?>">News</a>
         </nav>
       </div>
